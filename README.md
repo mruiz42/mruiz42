@@ -1,6 +1,6 @@
 ## Hi, I'm Michael 👋
 
-Full-stack engineer in the SF Bay Area, ex-Amazon. I build end-to-end web and mobile apps and tinker with hardware on the side.  
+Full-stack engineer in the SF Bay Area. I build end-to-end web and mobile apps and tinker with hardware on the side.  
 **Open to SWE roles:** michaelruiz.swe@gmail.com
 
 ### What I'm Building
