@@ -1,15 +1,13 @@
 ## Hi, I'm Michael 👋
 
-Software engineer in the SF Bay Area. I build software and tinker with hardware.
-Open to software engineering roles: michaelruiz.swe@gmail.com
+Full-stack engineer in the SF Bay Area, ex-Amazon. I build end-to-end web and mobile apps and tinker with hardware on the side.  
+**Open to SWE roles:** michaelruiz.swe@gmail.com
 
-### Projects
-- **[WordFarm](https://wordfarm.app)**: CJK language-learning platform with spaced repetition, AI reading and practice, and a six-language dictionary. ([showcase](https://github.com/mruiz42/WordFarm))
-- **[LeanAngle](https://github.com/mruiz42/LeanAngle)**: iOS app that measures motorcycle lean angle in real time with sensor fusion, and records rides for replay and analysis.
-- **[μClimate](https://github.com/mruiz42/uclimate)**: forecast weather along a driving route, timed to when you'll reach each point. Works worldwide on open data, with no API keys.
+### What I'm Building
+- **[WordFarm](https://wordfarm.app)** ([showcase](https://github.com/mruiz42/WordFarm)) — CJK language-learning app with spaced repetition, AI reading practice, and a 6-language dictionary. A full-stack rebuild of a [flashcard tool](https://github.com/mruiz42/cjk-trainer) I originally wrote in college.
+- **[μClimate](https://uclimate.vercel.app)** ([code](https://github.com/mruiz42/uclimate)) — Weather forecasts synced to your driving ETA along a route, alerting you to storms, snow, and sharp temperature drops. Uses open data; no API keys needed.
+- **[LeanAngle](https://github.com/mruiz42/LeanAngle)** — Real-time motorcycle lean-angle telemetry and ride replay for iOS, powered by on-device sensor fusion.
+- **[ctloop](https://github.com/mruiz42/ctloop)** — Automated Python test generation loop: spots untested paths, validates AI-written tests in a sandboxed copy, and writes a reviewable PR (patch + description) with coverage diffs.
 
-### Open source
-- **KDE ghostwriter**: [PR #703](https://github.com/KDE/ghostwriter/pull/703) (merged): stopped empty draft files from being saved to disk, and fixed a broken CMake build.
-
-### Where WordFarm started
-WordFarm began in college as [cjk-trainer](https://github.com/mruiz42/cjk-trainer) (2019), a flashcard app for studying vocabulary. I used it, and kept picturing what it could become. WordFarm is me finishing that side project: rebuilt and launched as a full-stack app.
+### Open Source
+- **KDE ghostwriter** — [PR #703](https://github.com/KDE/ghostwriter/pull/703): Stopped empty drafts from cluttering disk and repaired a broken CMake build.
